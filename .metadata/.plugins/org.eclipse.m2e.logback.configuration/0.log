@@ -942,3 +942,44 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2019-04-08 11:02:00,371 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-04-08 11:02:00,382 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-04-08 11:02:00,382 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.SUNAUL015\eclipse-workspace-laboratorio\CarmenaMultas\src\test\resources
+2019-04-08 12:06:12,352 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 12:06:12,355 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-08 12:06:12,357 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-08 12:06:12,361 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 12:06:12,367 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.SUNAUL015\eclipse-workspace-laboratorio\CarmenaMultas\src\test\resources
+2019-04-08 12:41:30,237 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 12:41:30,241 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-08 12:41:30,251 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-08 12:41:30,265 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 12:41:30,265 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.SUNAUL015\eclipse-workspace-laboratorio\CarmenaMultas\src\test\resources
+2019-04-08 13:26:59,184 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 13:26:59,186 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-08 13:26:59,203 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-08 13:26:59,227 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 13:26:59,234 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.SUNAUL015\eclipse-workspace-laboratorio\CarmenaMultas\src\test\resources
+2019-04-08 13:30:22,314 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 13:30:22,327 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-08 13:30:22,340 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-08 13:30:22,351 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 13:30:22,351 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.SUNAUL015\eclipse-workspace-laboratorio\CarmenaMultas\src\test\resources
+2019-04-08 13:30:34,394 [Worker-57: Launching Executing clean in C__Users_aula3m.SUNAUL015_eclipse-workspace-laboratorio_CarmenaMultas] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aula3m.SUNAUL015\eclipse-workspace-laboratorio\CarmenaMultas
+2019-04-08 13:30:34,394 [Worker-57: Launching Executing clean in C__Users_aula3m.SUNAUL015_eclipse-workspace-laboratorio_CarmenaMultas] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2019-04-08 13:30:40,433 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 13:30:40,434 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-08 13:30:40,437 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-08 13:30:40,441 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 13:30:40,441 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.SUNAUL015\eclipse-workspace-laboratorio\CarmenaMultas\src\test\resources
+2019-04-08 13:31:32,835 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-04-08 13:31:35,358 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Cliente:0.0.1-SNAPSHOT @ C:\Users\aula3m.SUNAUL015\eclipse-workspace-laboratorio\CarmenaMultas\pom.xml.
+2019-04-08 13:31:36,684 [Worker-59: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss:jandex:jar:2.0.5.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-08 13:31:39,665 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CarmenaMultas/src/main/java
+2019-04-08 13:31:39,670 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CarmenaMultas/src/main/resources
+2019-04-08 13:31:39,676 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CarmenaMultas/src/main/resources
+2019-04-08 13:31:39,677 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CarmenaMultas/src/test/java
+2019-04-08 13:31:40,115 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2019-04-08 13:31:42,711 [Worker-53: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss:jandex:jar:2.0.5.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-08 13:31:43,178 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 13:31:43,187 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-08 13:31:43,218 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-08 13:31:43,226 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-08 13:31:43,238 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m.SUNAUL015\eclipse-workspace-laboratorio\CarmenaMultas\src\test\resources

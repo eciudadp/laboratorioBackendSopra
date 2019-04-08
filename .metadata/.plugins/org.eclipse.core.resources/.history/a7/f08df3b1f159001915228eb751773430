@@ -29,9 +29,9 @@ public class ClientesControlador {
 	}
 	
 	//buscar cliente por matricula
-	@GetMapping("/clientes/{id}")
-	public Cliente cliente(@PathVariable Integer id) {
-		return repository.findById(id)
+	@GetMapping("/clientes/{matricula}")
+	public Cliente cliente(@PathVariable Integer matricula) {
+		return repository.findById(matricula)
 				.orElse(null);
 	}
 	
