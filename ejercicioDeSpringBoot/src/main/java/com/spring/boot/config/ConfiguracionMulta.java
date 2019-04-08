@@ -4,8 +4,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import com.spring.boot.modelo.Multa;
-import com.spring.boot.modelo.MultaRepository;
+import com.spring.boot.modelo.entities.Multa;
+import com.spring.boot.modelo.entities.MultaRepository;
 
 @Configuration
 public class ConfiguracionMulta

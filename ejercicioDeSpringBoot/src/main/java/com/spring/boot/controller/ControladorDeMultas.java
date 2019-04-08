@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.spring.boot.modelo.Multa;
-import com.spring.boot.modelo.MultaRepository;
+import com.spring.boot.modelo.entities.Multa;
+import com.spring.boot.modelo.entities.MultaRepository;
 
 @RestController
 public class ControladorDeMultas
