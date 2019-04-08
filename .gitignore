@@ -6,10 +6,14 @@ HELP.md
 .apt_generated
 .classpath
 .factorypath
+.metadata
 .project
 .settings
 .springBeans
 .sts4-cache
+Servers
+mvnw*
+.mvn
 
 ### IntelliJ IDEA ###
 .idea
